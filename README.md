@@ -1,4 +1,4 @@
-Airbnb Exploratory Data Analysis (EDA)
+#Airbnb Exploratory Data Analysis (EDA)
 
 📌 Overview
 This project performs an Exploratory Data Analysis on Airbnb listings to uncover insights into pricing, location trends, room types, and seasonal booking patterns.
@@ -8,7 +8,7 @@ The dataset underwent thorough cleaning, statistical analysis, and visualization
 
 ---
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 •	Python
 •	Google Colab
 •	NumPy
@@ -18,7 +18,7 @@ The dataset underwent thorough cleaning, statistical analysis, and visualization
 
 ---
 
-📊 Key Steps in the Project
+#📊 Key Steps in the Project
 1) Data Loading & Cleaning
 
 •	Removed missing values and duplicates
@@ -53,7 +53,7 @@ The dataset underwent thorough cleaning, statistical analysis, and visualization
 
 ---
 
-📈 Key Insights
+#📈 Key Insights
 •	Manhattan and Brooklyn are the most expensive neighbourhood groups, even when adjusted for number of beds.
 
 •	Seasonal review activity peaks between October and December.
@@ -64,7 +64,7 @@ The dataset underwent thorough cleaning, statistical analysis, and visualization
 
 ---
 
-Future Work
+#Future Work
 
 •	Develop a Machine Learning model to predict listing prices.
 
